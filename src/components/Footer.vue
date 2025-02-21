@@ -23,7 +23,7 @@
     </div>
     <div>
       <h2>Petra Sušac</h2>
-      <h2>Marta Bulicć</h2>
+      <h2>Marta Bulić</h2>
       <h2>Marijanela Pranjić</h2>
     </div>
   </div>
