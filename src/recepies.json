@@ -1,0 +1,85 @@
+[
+  {
+    "id": "1",
+    "name": "Margherita Pizza",
+    "description": "Classic Margherita pizza with fresh mozzarella, tomatoes, and basil.",
+    "ingredients": [
+      "1 Pizza dough",
+      "1/2 c Tomato sauce",
+      "6 oz Fresh mozzarella",
+      "Fresh basil leaves",
+      "Olive oil",
+      "Salt"
+    ],
+    "instructions": [
+      "Preheat oven to 500°F (260°C).",
+      "Roll out the pizza dough on a floured surface.",
+      "Spread tomato sauce evenly over the dough.",
+      "Tear mozzarella and place it on top.",
+      "Bake for 7-10 minutes until crust is golden.",
+      "Add fresh basil and drizzle with olive oil before serving."
+    ],
+    "imageUrl": "https://cookieandkate.com/images/2021/07/margherita-pizza-recipe-1-2.jpg"
+  },
+  {
+    "id": "2",
+    "name": "Spaghetti Carbonara",
+    "description": "Creamy spaghetti carbonara with pancetta and parmesan.",
+    "ingredients": [
+      "12 oz Spaghetti",
+      "4 oz Pancetta",
+      "2 large Eggs",
+      "1 c Parmesan cheese",
+      "Salt",
+      "Black pepper"
+    ],
+    "instructions": [
+      "Cook spaghetti in salted water until al dente.",
+      "In a pan, cook pancetta until crispy.",
+      "Whisk eggs and parmesan together in a bowl.",
+      "Drain spaghetti, reserving some pasta water.",
+      "Toss spaghetti with pancetta, then remove from heat.",
+      "Quickly mix in egg and cheese mixture, adding reserved water to create a creamy sauce.",
+      "Season with black pepper and serve immediately."
+    ],
+    "imageUrl": "https://piovariations.cdn.podravka.net/f528dc30-6406-11eb-80cc-0242ac12002f/v/f2b1f6a6-64bc-11eb-b6c2-0242ac130010/1600x1200-f2b21938-64bc-11eb-9498-0242ac130010.jpeg"
+  },
+  {
+    "id": "3",
+    "name": "Caprese Salad",
+    "description": "Simple Caprese salad with tomatoes, mozzarella, and basil.",
+    "ingredients": [
+      "2 large Tomatoes",
+      "8 oz Fresh mozzarella",
+      "Fresh basil leaves",
+      "Olive oil",
+      "Balsamic vinegar",
+      "Salt",
+      "Black pepper"
+    ],
+    "instructions": [
+      "Slice tomatoes and mozzarella into even rounds.",
+      "Arrange tomato and mozzarella slices on a plate, alternating them.",
+      "Tuck fresh basil leaves between the slices.",
+      "Drizzle with olive oil and balsamic vinegar.",
+      "Season with salt and black pepper to taste."
+    ],
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzNQA73EUE4Zf1r1PUBscA_PAw4ANmtsfq-yibJPczgutSnpiPJMufhzO6dzk1PQVvx6_UfdtLHmC-xGQgC6CeeTGewm0f5jbQleLFJPw"
+  },
+  {
+    "id": "4",
+    "name": "Stracciatella (Italian Wedding Soup)",
+    "description": "Stracciatella (Italian Wedding Soup) description",
+    "ingredients": [
+      "3 1/2 c Chicken broth",
+      "homemade|1 lb Fresh spinach",
+      "wash/trim/chop|1 Egg|1 c Grated parmesan cheese"
+    ],
+    "instructions": [
+      "Bring 1 cup of the broth to a boil",
+      "Add spinach and cook until softened but still bright green",
+      "Remove spinach with a slotted spoon and set aside"
+    ],
+    "imageUrl": "https://josieandnina.com/wp-content/uploads/2020/01/Finished-Dish_SP_LR-1-500x375.jpg"
+  }
+]

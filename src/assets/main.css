@@ -1,0 +1,176 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --app-bg: #dad4b5;
+  --primary: #800000;
+  --primary-lighter: #982b1c;
+  --app-bg-lighter: #f2e8c6;
+
+  /*SPACING*/
+  --spacing-xs: 4px;
+  --spacing-sm: 8px;
+  --spacing-md: 16px;
+  --spacing-lg: 24px;
+  --spacing-xl: 32px;
+  --spacing-xxl: 48px;
+}
+
+body {
+  font-family: 'Scada', serif;
+  background-color: var(--app-bg);
+  color: var(--primary);
+  height: 100vh;
+}
+
+#app {
+  height: 100%;
+}
+
+/* Padding for specific sides */
+.pt-sm {
+  padding-top: 8px;
+}
+.pb-sm {
+  padding-bottom: 8px;
+}
+.pl-sm {
+  padding-left: 8px;
+}
+.pr-sm {
+  padding-right: 8px;
+}
+
+.pt-lg {
+  padding-top: 24px;
+}
+.pb-lg {
+  padding-bottom: 24px;
+}
+.pl-lg {
+  padding-left: 24px;
+}
+.pr-lg {
+  padding-right: 24px;
+}
+
+/* Horizontal & Vertical Padding */
+.px-sm {
+  padding-left: 8px;
+  padding-right: 8px;
+}
+.py-sm {
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+
+.px-lg {
+  padding-left: 24px;
+  padding-right: 24px;
+}
+.py-lg {
+  padding-top: 24px;
+  padding-bottom: 24px;
+}
+
+/* Margin for specific sides */
+.mt-sm {
+  margin-top: 8px;
+}
+.mb-sm {
+  margin-bottom: 8px;
+}
+.ml-sm {
+  margin-left: 8px;
+}
+.mr-sm {
+  margin-right: 8px;
+}
+
+.mt-lg {
+  margin-top: 24px;
+}
+.mb-lg {
+  margin-bottom: 24px;
+}
+.ml-lg {
+  margin-left: 24px;
+}
+.mr-lg {
+  margin-right: 24px;
+}
+
+/* Horizontal & Vertical Margin */
+.mx-sm {
+  margin-left: 8px;
+  margin-right: 8px;
+}
+.my-sm {
+  margin-top: 8px;
+  margin-bottom: 8px;
+}
+
+.mx-lg {
+  margin-left: 24px;
+  margin-right: 24px;
+}
+.my-lg {
+  margin-top: 24px;
+  margin-bottom: 24px;
+}
+
+/*Flex*/
+.flex {
+  display: flex;
+}
+.inline-flex {
+  display: inline-flex;
+}
+
+/* Direction */
+.flex-row {
+  flex-direction: row;
+}
+.flex-row-reverse {
+  flex-direction: row-reverse;
+}
+.flex-col {
+  flex-direction: column;
+}
+.flex-col-reverse {
+  flex-direction: column-reverse;
+}
+
+/* Wrap */
+.flex-wrap {
+  flex-wrap: wrap;
+}
+.flex-nowrap {
+  flex-wrap: nowrap;
+}
+.flex-wrap-reverse {
+  flex-wrap: wrap-reverse;
+}
+
+/* Justify Content */
+.justify-start {
+  justify-content: flex-start;
+}
+.justify-center {
+  justify-content: center;
+}
+.justify-end {
+  justify-content: flex-end;
+}
+.justify-between {
+  justify-content: space-between;
+}
+.justify-around {
+  justify-content: space-around;
+}
+.justify-evenly {
+  justify-content: space-evenly;
+}
